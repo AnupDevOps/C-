@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\C#\\console\\src\\GradeBook\\GradeBook.csproj",
+      "projectUniqueName": "D:\\Work\\C#\\C-\\console\\src\\GradeBook\\GradeBook.csproj",
       "projectName": "GradeBook",
-      "projectPath": "D:\\Work\\C#\\console\\src\\GradeBook\\GradeBook.csproj",
+      "projectPath": "D:\\Work\\C#\\C-\\console\\src\\GradeBook\\GradeBook.csproj",
       "packagesPath": "C:\\Users\\anup.mishra\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\C#\\console\\src\\GradeBook\\obj\\",
+      "outputPath": "D:\\Work\\C#\\C-\\console\\src\\GradeBook\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\anup.mishra\\AppData\\Roaming\\NuGet\\NuGet.Config"

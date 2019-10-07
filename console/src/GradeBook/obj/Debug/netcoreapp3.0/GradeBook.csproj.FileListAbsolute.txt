@@ -9,3 +9,14 @@ D:\Work\C#\console\src\GradeBook\obj\Debug\netcoreapp3.0\GradeBook.AssemblyInfoI
 D:\Work\C#\console\src\GradeBook\obj\Debug\netcoreapp3.0\GradeBook.AssemblyInfo.cs
 D:\Work\C#\console\src\GradeBook\obj\Debug\netcoreapp3.0\GradeBook.dll
 D:\Work\C#\console\src\GradeBook\obj\Debug\netcoreapp3.0\GradeBook.pdb
+D:\Work\C#\C-\console\src\GradeBook\bin\Debug\netcoreapp3.0\GradeBook.exe
+D:\Work\C#\C-\console\src\GradeBook\bin\Debug\netcoreapp3.0\GradeBook.deps.json
+D:\Work\C#\C-\console\src\GradeBook\bin\Debug\netcoreapp3.0\GradeBook.runtimeconfig.json
+D:\Work\C#\C-\console\src\GradeBook\bin\Debug\netcoreapp3.0\GradeBook.runtimeconfig.dev.json
+D:\Work\C#\C-\console\src\GradeBook\bin\Debug\netcoreapp3.0\GradeBook.dll
+D:\Work\C#\C-\console\src\GradeBook\bin\Debug\netcoreapp3.0\GradeBook.pdb
+D:\Work\C#\C-\console\src\GradeBook\obj\Debug\netcoreapp3.0\GradeBook.csprojAssemblyReference.cache
+D:\Work\C#\C-\console\src\GradeBook\obj\Debug\netcoreapp3.0\GradeBook.AssemblyInfoInputs.cache
+D:\Work\C#\C-\console\src\GradeBook\obj\Debug\netcoreapp3.0\GradeBook.AssemblyInfo.cs
+D:\Work\C#\C-\console\src\GradeBook\obj\Debug\netcoreapp3.0\GradeBook.dll
+D:\Work\C#\C-\console\src\GradeBook\obj\Debug\netcoreapp3.0\GradeBook.pdb
