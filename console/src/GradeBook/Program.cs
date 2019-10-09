@@ -10,8 +10,12 @@ namespace GradeBook
             var book = new Book("Anup Book");
             book.AddGrade(89.1);
             book.AddGrade(90.1);
-            book.ShowStatics();
+            book.GetStatics();
            
+            var stats = book.GetStatics();
+            System.Console.WriteLine($"Lowest Grade {stats.Low}");
+            System.Console.WriteLine($"Highest Grade {stats.High}");
+            System.Console.WriteLine($"Average of grades { stats.Average:N1}");
 
             // var x = 35.5;
             // var y = 55.5;
