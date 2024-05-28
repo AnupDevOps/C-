@@ -40,6 +40,13 @@ jobs:
     - name: Setup MSBuild.exe
       uses: microsoft/setup-msbuild@v1.0.2
 
+    - name: dotnet test
+      run: |
+        pwd
+        cd console/src/GradeBook
+        pwd
+        dotnet test
+
     # Restore the application to populate the obj folder with RuntimeIdentifiers
     - name: Restore the application
       run: |
