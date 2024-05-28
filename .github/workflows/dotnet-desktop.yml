@@ -43,7 +43,7 @@ jobs:
     - name: dotnet test
       run: |
         pwd
-        cd console/src/GradeBook
+        cd console/test/GradeBook.Tests
         pwd
         dotnet test
 
